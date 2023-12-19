@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1049536531686",
+    "project_id": "mjsapp-2b237",
+    "storage_bucket": "mjsapp-2b237.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049536531686:android:43fe39570f234322043f27",
+        "android_client_info": {
+          "package_name": "com.example.cheques_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_edI-eNXSS0rbVWpJPMfoxrK2JGfzH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049536531686:android:a0d7127264572578043f27",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_edI-eNXSS0rbVWpJPMfoxrK2JGfzH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
